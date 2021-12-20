@@ -1,2 +1,2 @@
 # baco2
-Babocoding2 tutorial
+바보처럼코딩하기 튜토리얼 2번째
